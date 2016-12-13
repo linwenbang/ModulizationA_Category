@@ -1,0 +1,7 @@
+ModulizationA_Category.xcodeproj/xcuserdata/
+ModulizationA_Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+ModulizationA_Category.xcodeproj/project.xcworkspace/xcuserdata/
